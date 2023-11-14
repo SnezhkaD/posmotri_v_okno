@@ -109,12 +109,12 @@ ol {
 }
 
 .content__list-item:not(:last-child) {
-  padding-bottom: 30px;
+  padding-bottom: 24px;
 }
 
 .content__card-link {
   display: block;
-  margin-left: 2px;
+  margin: 2px;
 }
 
 .content__card-link:focus-visible {
