@@ -109,7 +109,7 @@ ol {
 }
 
 .content__list-item:not(:last-child) {
-  padding-bottom: 24px;
+  padding-bottom: 30px;
 }
 
 .content__card-link {
@@ -130,7 +130,6 @@ ol {
   align-items: start;
   width: 100%;
   justify-content: space-between;
-  padding: 2px;
 }
 
 .content__video-card:active {
