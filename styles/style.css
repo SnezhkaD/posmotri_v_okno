@@ -114,6 +114,7 @@ ol {
 
 .content__card-link {
   display: block;
+  margin-left: 2px;
 }
 
 .content__card-link:focus-visible {
@@ -127,9 +128,9 @@ ol {
 .content__video-card {
   display: inline-flex;
   align-items: start;
-  width: 394px;
+  min-width: 100%;
   justify-content: space-between;
-  padding: 1px;
+  padding: 2px;
 }
 
 .content__video-card:active {
@@ -306,5 +307,5 @@ ol {
   overflow-y: auto;
   position: relative;
   height: 298px;
-  padding: 3px;
+  min-width: 100%;
 }
