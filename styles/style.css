@@ -128,7 +128,7 @@ ol {
 .content__video-card {
   display: inline-flex;
   align-items: start;
-  min-width: 100%;
+  width: 100%;
   justify-content: space-between;
   padding: 2px;
 }
